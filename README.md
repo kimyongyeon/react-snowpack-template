@@ -179,9 +179,6 @@ if (import.meta.hot) {
 # fast-refresh 설정
 ```
 npm install @snowpack/plugin-react-refresh --save-dev
-
-  
-
 ```
 
 # snowpack.config.js
